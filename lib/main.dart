@@ -66,7 +66,7 @@ class pointsCounter extends StatelessWidget {
                  ),
                  Spacer(
                   flex: 1,
-                ),
+                ), 
                  ElevatedButton(
                    style: ElevatedButton.styleFrom(
                      primary: Colors.orange,
